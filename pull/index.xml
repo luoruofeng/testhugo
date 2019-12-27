@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pulls on My New Hugo Site</title>
-    <link>testhugo.github.io/pull/</link>
+    <link>/pull/</link>
     <description>Recent content in Pulls on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Dec 2019 17:01:43 +0800</lastBuildDate>
     
-	<atom:link href="testhugo.github.io/pull/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pull/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Full</title>
-      <link>testhugo.github.io/pull/full/</link>
+      <link>/pull/full/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:43 +0800</pubDate>
       
-      <guid>testhugo.github.io/pull/full/</guid>
+      <guid>/pull/full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jine</title>
-      <link>testhugo.github.io/pull/jine/</link>
+      <link>/pull/jine/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:35 +0800</pubDate>
       
-      <guid>testhugo.github.io/pull/jine/</guid>
+      <guid>/pull/jine/</guid>
       <description></description>
     </item>
     

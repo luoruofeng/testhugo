@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>testhugo.github.io/</link>
+    <link>/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Dec 2019 17:01:43 +0800</lastBuildDate>
     
-	<atom:link href="testhugo.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Full</title>
-      <link>testhugo.github.io/pull/full/</link>
+      <link>/pull/full/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:43 +0800</pubDate>
       
-      <guid>testhugo.github.io/pull/full/</guid>
+      <guid>/pull/full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jine</title>
-      <link>testhugo.github.io/pull/jine/</link>
+      <link>/pull/jine/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:35 +0800</pubDate>
       
-      <guid>testhugo.github.io/pull/jine/</guid>
+      <guid>/pull/jine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frank</title>
-      <link>testhugo.github.io/post/frank/</link>
+      <link>/post/frank/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:24 +0800</pubDate>
       
-      <guid>testhugo.github.io/post/frank/</guid>
+      <guid>/post/frank/</guid>
       <description>frank</description>
     </item>
     
     <item>
       <title>Roce</title>
-      <link>testhugo.github.io/post/roce/</link>
+      <link>/post/roce/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:19 +0800</pubDate>
       
-      <guid>testhugo.github.io/post/roce/</guid>
+      <guid>/post/roce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mike</title>
-      <link>testhugo.github.io/post/mike/</link>
+      <link>/post/mike/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:13 +0800</pubDate>
       
-      <guid>testhugo.github.io/post/mike/</guid>
+      <guid>/post/mike/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jack</title>
-      <link>testhugo.github.io/post/jack/</link>
+      <link>/post/jack/</link>
       <pubDate>Thu, 26 Dec 2019 17:01:08 +0800</pubDate>
       
-      <guid>testhugo.github.io/post/jack/</guid>
+      <guid>/post/jack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>testhugo.github.io/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Thu, 26 Dec 2019 16:55:12 +0800</pubDate>
       
-      <guid>testhugo.github.io/post/first/</guid>
+      <guid>/post/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>testhugo.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 26 Dec 2019 16:54:47 +0800</pubDate>
       
-      <guid>testhugo.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>ab</description>
     </item>
     
