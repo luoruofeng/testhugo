@@ -3,11 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/pull/full/</loc>
+    <lastmod>2019-12-26T17:01:43+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2019-12-26T17:01:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/pull/</loc>
+    <lastmod>2019-12-26T17:01:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/pull/jine/</loc>
+    <lastmod>2019-12-26T17:01:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/frank/</loc>
+    <lastmod>2019-12-26T17:01:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-12-26T17:01:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/roce/</loc>
+    <lastmod>2019-12-26T17:01:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/mike/</loc>
+    <lastmod>2019-12-26T17:01:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/jack/</loc>
+    <lastmod>2019-12-26T17:01:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/first/</loc>
+    <lastmod>2019-12-26T16:55:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2019-12-26T16:54:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
